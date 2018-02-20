@@ -1,0 +1,5 @@
+user::hp1:::ip::192.168.124.1:::port::24:::url::www.wwe.com
+user::hp2:::ip::192.168.124.5:::port::24:::url::www.twitter.com
+user::hp3:::ip::192.168.124.6:::port::24:::url::www.google.com
+user::hp4:::ip::192.168.124.4:::port::24:::url::www.github.com
+user::hp5:::ip::192.168.124.7:::port::24:::url::www.facebook.com
