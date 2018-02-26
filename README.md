@@ -29,7 +29,7 @@ git clone https://github.com/your_username/modules-cloud
 ### Assignment Additions
 
 - Go to **week1/assignments** directory.
-- Make a new folder with as *name_rollno*.
+- Make a new folder with as *your-name_rollno*.
 
 Example:
 ```
