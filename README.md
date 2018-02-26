@@ -35,7 +35,7 @@ Example:
 ```
 aditya_1
 ```
-- Make your assignment as **prog1.py, prog2.py**, etc..
+- Make your assignments as **prog1.py, prog2.py**, etc..
 
 ### Submissions
 - Go to home directory of this repo in local system.
