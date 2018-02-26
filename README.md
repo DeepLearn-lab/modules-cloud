@@ -44,3 +44,11 @@ git add .
 git commit -m "YourName Commit"
 git push -u origin master
 ```
+
+### 3. Generating Pull Request
+- Go to 
+```
+https://github.com/your_username/modules-cloud
+```
+- Click on **Pull request**.
+- Click on **Create pull request**.
