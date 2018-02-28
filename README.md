@@ -1,5 +1,5 @@
 # Cloud Computing Workshop
-Please follow these instructions to access the materials of the workshop and submission of assignments.
+Please follow these instructions to access the materials of the workshop and submission of assignments. Go to each week's folder for specific content of that session.
 
 ## 1. Dependencies
 - Python 2.7
