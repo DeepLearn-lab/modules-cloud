@@ -1,6 +1,7 @@
 # Cloud Computing Workshop
 
 [![Join the chat at https://gitter.im/Interns-deepLearn/modules-cloud](https://badges.gitter.im/Interns-deepLearn/modules-cloud.svg)](https://gitter.im/Interns-deepLearn/modules-cloud?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Please follow these instructions to access the materials of the workshop and submission of assignments. Go to each week's folder for specific content of that session.
 
 ## 1. Dependencies
@@ -25,7 +26,7 @@ https://github.com/your_username/modules-cloud
 
 - From your Git Bash, type:
 ```
-git clone https://github.com/your_username/modules-cloud
+$ git clone https://github.com/your_username/modules-cloud.git
 ```
 
 ### Assignment Additions
@@ -42,9 +43,9 @@ aditya_1
 ### Submissions
 - Go to home directory of this repo in local system.
 ```
-git add .
-git commit -m "YourName Commit"
-git push -u origin master
+$ git add .
+$ git commit -m "YourName Commit"
+$ git push -u origin master
 ```
 
 ### 3. Generating Pull Request
