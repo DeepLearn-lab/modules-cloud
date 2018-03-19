@@ -8,3 +8,6 @@ Please follow these instructions to access the materials of the workshop and sub
 - Python 2.7
 - pip
 - Git Bash
+
+### Assignments
+Go to **[workshop-assignments repo](https://github.com/DeepLearn-lab/workshop-assignments)** for submission of assignments.
