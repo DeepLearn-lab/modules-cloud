@@ -9,5 +9,5 @@ Please follow these instructions to access the materials of the workshop and sub
 - pip
 - Git Bash
 
-### Assignments
+## 2. Assignments
 Go to **[workshop-assignments repo](https://github.com/DeepLearn-lab/workshop-assignments)** for submission of assignments.
