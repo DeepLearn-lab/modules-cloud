@@ -11,4 +11,4 @@ def hello_world():
 
 if __name__ == '__main__':
     #port = 1245
-    app.run(host='0.0.0.23',port=port)
+    app.run(host='0.0.0.0',port=port)
