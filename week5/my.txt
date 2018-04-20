@@ -1,0 +1,4 @@
+Thanks for the response.
+For the references to "time", I have the similar concern as you, but it's not easy to find one which is abstract and explicit.
+
+In real world, and in the context of CNN, 3D data usually means 3D volume or 2D movie. For 3D volume, it's spatial signal. And for movie, it's spatio-temporal signal. Names such as "first_spatial_dim", "second_spatial_dim" etc. would not apply in the case of a movie, because, time dimension for a movie is not the "first spatial dim", it's a temporal dim.
